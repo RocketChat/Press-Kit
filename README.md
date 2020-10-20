@@ -1,5 +1,9 @@
 # Rocket.Chat Media Kit
 
+This repository contains a collection of assets for external use purposes; email marketing, blogs, etc.  
+
+# License
+
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 The Rocket.Chat logo and wordmark artwork are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
