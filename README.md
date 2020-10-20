@@ -2,7 +2,7 @@
 
 This repository contains a collection of assets for external use purposes; email marketing, blogs, etc.  
 
-# License
+## License
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
